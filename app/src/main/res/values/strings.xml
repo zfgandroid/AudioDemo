@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioDemo</string>
+
+    <string name="start_record">开始录音</string>
+    <string name="stop_record">停止录音</string>
+    <string name="start_play">开始播放</string>
+    <string name="stop_play">停止播放</string>
+    <string name="start_decoder">开始解码</string>
+    <string name="decoder_finish">解码完成</string>
+    <string name="file_not_exist">文件不存在，请确认后再重试！</string>
+</resources>
